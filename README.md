@@ -1,2 +1,7 @@
 # Dashboard_Reactjs
-Create Dashboard by using Reactjs
+How to use shis?
+1. Download this file.
+2. Extract the file.
+3. Open in Editor (Vs Code).
+4. Write in terminal "npm install" (make sure that you installed already Nodejs)
+5. In last write "npm start".
