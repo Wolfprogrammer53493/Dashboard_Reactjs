@@ -1,5 +1,5 @@
 # Dashboard_Reactjs
-How to use shis?
+How to use this?
 1. Download this file.
 2. Extract the file.
 3. Open in Editor (Vs Code).
